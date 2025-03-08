@@ -46,16 +46,16 @@ PathForge is a Java-based GUI application that allows users to generate and solv
 ## Screenshots
 Here are some screenshots showcasing PathForge in action:
 
-![Maze Generation](assets/generation.png=250*250)
+<img src="assets/generation.png" alt="Maze Generation" width="250" />
 *Generated maze with obstacles*
 
-![Setting Start and End Points](assets/points.png=250*250)
+<img src="assets/points.png" alt="Setting Start and End Points" width="250" />
 *Left-click sets the start (green), Right-click sets the end (red)*
 
-![Pathfinding with BFS](assets/bfs.png=250*250)
+<img src="assets/bfs.png" alt="Pathfinding with BFS" width="250" />
 *BFS solving the maze*
 
-![Pathfinding with DFS](assets/dfs.png=250*250)
+<img src="assets/dfs.png" alt="Pathfinding with DFS" width="250" />
 *DFS solving the maze*
 
 ## Technologies Used
