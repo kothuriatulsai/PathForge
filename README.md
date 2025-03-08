@@ -69,4 +69,4 @@ Here are some screenshots showcasing PathForge in action:
 - Provide **different themes** for UI customization.
 
 ## Author
-Atul Sai Kothuri(github.com/kothuriatulsai)
+[Atul Sai Kothuri](https://github.com/kothuriatulsai)
