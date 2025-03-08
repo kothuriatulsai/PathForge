@@ -75,7 +75,7 @@ Here are some screenshots showcasing PathForge in action:
 - **Data Structures**: Queue, Stack, HashMap
 
 ## Future Enhancements
-- Add support for **A* Algorithm** for better pathfinding.
+- Add support for **A\*** **Algorithm** for better pathfinding.
 - Implement **customizable maze sizes**.
 - Provide **different themes** for UI customization.
 
