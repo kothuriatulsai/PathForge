@@ -54,7 +54,7 @@ Here are some screenshots showcasing PathForge in action:
     </td>
     <td style="text-align: center; border: none;">
       <img src="assets/points.png" alt="Setting Start and End Points" width="300" />
-      <p>Left-click sets the start (green), Right-click sets the end (red)</p>
+      <p>Start (green), End (red)</p>
     </td>
   </tr>
   <tr>
