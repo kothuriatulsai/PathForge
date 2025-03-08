@@ -22,7 +22,7 @@ PathForge is a Java-based GUI application that allows users to generate and solv
 ### Steps to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/PathForge.git
+   git clone https://github.com/kothuriatulsai/PathForge.git
    cd PathForge
    ```
 2. Compile and run the Java program:
